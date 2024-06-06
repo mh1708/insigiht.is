@@ -1,4 +1,3 @@
-// Thêm đoạn mã này vào file functions.php của theme
 
 function load_more_products_shortcode() {
     ob_start();
